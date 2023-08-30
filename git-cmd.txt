@@ -1,0 +1,9 @@
+1. git add.  for adding all  the files.
+
+or GIT add {file name} for a particular file.
+
+2. git commit -m " Writte the changes made"
+
+3. git push origin {branch name}
+
+
